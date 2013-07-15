@@ -1,0 +1,3 @@
+namespace OneDrive.CloudCore.Common
+{
+}
